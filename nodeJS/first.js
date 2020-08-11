@@ -167,7 +167,7 @@
 // }
 // add(2,3,12,40,456,32)
 
-funtion findNum() {
+function findNum(){
     let highest=arguments[0];
     let i=1;
     while(i < arguments.length){

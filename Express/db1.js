@@ -21,7 +21,6 @@ function showallrecords(){
                 console.log(data.name);
                 console.log(data.address);
             })
-
         }
     })
 
